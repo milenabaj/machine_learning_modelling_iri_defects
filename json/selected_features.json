@@ -1,0 +1,6 @@
+{
+
+
+    "features": ["GM.obd.spd_veh.value-0_Absolute energy", "GM.obd.spd_veh.value-0_Autocorrelation", "GM.obd.spd_veh.value-0_Centroid", "GM.obd.spd_veh.value-0_Kurtosis", "GM.obd.spd_veh.value-0_Max", "GM.obd.spd_veh.value-0_Mean", "GM.obd.spd_veh.value-0_Mean absolute deviation", "GM.obd.spd_veh.value-0_Mean absolute diff", "GM.obd.spd_veh.value-0_Median", "GM.obd.spd_veh.value-0_Median absolute deviation", "GM.obd.spd_veh.value-0_Median absolute diff", "GM.obd.spd_veh.value-0_Median diff", "GM.obd.spd_veh.value-0_Min", "GM.obd.spd_veh.value-0_Negative turning points", "GM.obd.spd_veh.value-0_Peak to peak distance", "GM.obd.spd_veh.value-0_Positive turning points", "GM.obd.spd_veh.value-0_Root mean square", "GM.obd.spd_veh.value-0_Signal distance", "GM.obd.spd_veh.value-0_Standard deviation", "GM.acc.xyz.z-0_Interquartile range", "GM.acc.xyz.z-0_Kurtosis", "GM.acc.xyz.z-0_Mean absolute deviation", "GM.acc.xyz.z-0_Mean diff", "GM.acc.xyz.z-0_Median", "GM.acc.xyz.z-0_Median absolute diff", "GM.acc.xyz.z-0_Min", "GM.acc.xyz.z-0_Skewness", "GM.acc.xyz.z-0_Slope"]
+                
+}
