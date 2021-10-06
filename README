@@ -1,0 +1,21 @@
+Package author: Milena Bajic
+
+The package contains files for training and prediction of road roughness index using multiple machine learning regression and classication models.
+
+=================
+PACKAGE STRUCTURE
+=================
+
+prepare_GM.py -> prepare car data, run map matching and interpolation
+prepare_DRD.py -> prepare reference data
+align_data.py -> align car and reference data, create windows
+run_exploration.py -> a helper script to explore the data
+run_feature_extraction.py -> compute predictive features
+run_feature_selection.py -> select relevant subset of predictive features
+run_traning.py -> train a set of regression and classification models
+
+json/* -> files with inputs information 
+utls/* -> preprocessing and machine learning modules
+
+
+
